@@ -1,0 +1,11 @@
+{
+  "id": "database-velocity",
+  "name": "Database-Velocity",
+  "version": "1.0",
+  "main": "hu.jgj52.databaseVelocity.DatabaseVelocity",
+  "authors": ["JGJ52"],
+  "libraries": [
+    "org.postgresql:postgresql:42.7.7",
+    "com.zaxxer:HikariCP:7.0.2"
+  ]
+}
